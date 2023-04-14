@@ -1,5 +1,5 @@
 {
-  "name": "overtrue/laravel-passport-cache-client",
+  "name": "pavlo-krostylov/laravel-passport-cache-client",
   "description": "Make laravel/passport client cacheable",
   "license": "MIT",
   "authors": [
